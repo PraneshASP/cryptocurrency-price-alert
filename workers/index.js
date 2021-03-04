@@ -1,0 +1,2 @@
+require("./removeExpired");
+require("./sendAlert");
