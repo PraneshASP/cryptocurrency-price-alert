@@ -11,7 +11,7 @@
 <p align="center">
   <h3 align="center">Building cryptocurrency price alert service from scratch</h3>
   <p align="center">
-     <a href="https://pranesh-a-s.medium.com/how-to-build-simple-and-secure-rest-api-for-user-authentication-using-node-js-jwt-and-mongodb-2bdeb3e5427e"><strong>Explore the post »</strong></a>
+     <a href=""><strong>Explore the post »</strong></a>
      <br /> <br />
     <a href="https://github.com/PraneshASP/cryptocurrency-price-alert/issues">Report Bug </a>
     ·
