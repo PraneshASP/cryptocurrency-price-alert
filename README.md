@@ -1,4 +1,4 @@
-[![Product Name Screen Shot](https://cdn-images-1.medium.com/max/2560/1*pOv2RLIpBkCLEeUGzH6iDg.jpeg)]()
+[![Product Name Screen Shot](https://cdn-images-1.medium.com/max/2560/1*pOv2RLIpBkCLEeUGzH6iDg.jpeg)](https://pranesh-a-s.medium.com/build-your-own-cryptocurrency-price-alert-service-using-nodejs-51d6989dd062)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![language](https://img.shields.io/github/languages/top/PraneshASP/node-authentication-jwt-mongodb)]("https://github.com/PraneshASP/cryptocurrency-price-alert")
@@ -11,7 +11,7 @@
 <p align="center">
   <h3 align="center">Building cryptocurrency price alert service from scratch</h3>
   <p align="center">
-     <a href=""><strong>Explore the post »</strong></a>
+     <a href="https://pranesh-a-s.medium.com/build-your-own-cryptocurrency-price-alert-service-using-nodejs-51d6989dd062"><strong>Explore the post »</strong></a>
      <br /> <br />
     <a href="https://github.com/PraneshASP/cryptocurrency-price-alert/issues">Report Bug </a>
     ·
